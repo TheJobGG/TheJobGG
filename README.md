@@ -1,5 +1,6 @@
-# 👨🏻‍💻 About Me:
-¡Hola! <br>Mi nombre es Job González Gutiérrez, soy Ingeniero en Sistemas Computacionales y actualmente me estoy enfocando en el desarrollo Frontend y en un futuro especializarme en desarrollo FullStack.<br><br>Con el pasar de mi carrera tuve la oportunidad de poner en práctica varias tecnologías para el desarrollo de software, como Java para la creación de aplicaciones de escritorio para Windows y C# para la creación de videojuegos con Unity.<br><br>A pesar de ello me engancho mas el mundo del desarrollo web, ya que si algo esta en la web, esta en todos lados. Por ello actualmente estoy profundizando en el desarrollo web con JavaScript a la par de React.
+# 👨🏻‍💻 Sobre mi:
+Combino diseño, desarrollo y visión estratégica para crear soluciones digitales efectivas. He trabajado en proyectos de e-commerce, SaaS y sistemas especializados, con un enfoque claro en rendimiento, usabilidad y personalización. Soy Ingeniero en Sistemas Computacionales y me especializo en desarrollo web Frontend con JavaScript, TypeScript, React, Next.js y Astro. <br><br>
+También tengo experiencia con Laravel para crear funcionalidades y backends a medida, así como en la construcción y optimización de sitios corporativos y tiendas en línea con WordPress y WooCommerce. Actualmente continúo profundizando en herramientas modernas, buenas prácticas y diseño centrado en el usuario para crear experiencias rápidas, claras y funcionales que aporten valor real a cada proyecto.
 
 
 # 💻 Tech Stack:
